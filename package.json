@@ -1,0 +1,27 @@
+{
+  "name": "ServerSideRendering",
+  "version": "1.0.0",
+  "description": "Server-Side Redering em NodeJS e ReactJS usando a ferramenta NextJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizCowBTF/ServerSideRendering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizCowBTF/ServerSideRendering/issues"
+  },
+  "homepage": "https://github.com/LuizCowBTF/ServerSideRendering#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^11.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
